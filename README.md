@@ -1,4 +1,4 @@
-                                                 HEAL CO2 Emission Analysis Dashboard
+HEAL CO2 Emission Analysis Dashboard
 
 Overview
 
