@@ -9,6 +9,8 @@ Features
 Interactive Country & Year Selection:
 Users can select specific countries and years, allowing them to focus on detailed CO2 emissions data per capita for comparison. This also includes performance metrics in electricity generation and disaster-related economic losses.
 
+![image](https://github.com/user-attachments/assets/cd630fd9-5569-4e28-9018-583ad902e63f)
+
 CO2 Emissions Treemap:
 
 A static treemap visualizes total emissions for the past 5 years, highlighting countries with the highest emissions and providing a clear view of those needing targeted interventions.
