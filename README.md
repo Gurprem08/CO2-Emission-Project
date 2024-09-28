@@ -2,7 +2,7 @@ HEAL CO2 Emission Analysis Dashboard
 
 Overview
 
-During a university project, we created an interactive dashboard focused on CO2 emission analysis across various countries, along with their performance in electricity generation and consumption from Fossil Fuels and Renewables. This dashboard is designed to provide users with insights into environmental impacts, helping stakeholders make data-driven decisions to achieve Sustainable Development Goals (SDGs) and promote cleaner energy initiatives.
+During a university project, I created an interactive dashboard focused on CO2 emission analysis across various countries, along with their performance in electricity generation and consumption from Fossil Fuels and Renewables. This dashboard is designed to provide users with insights into environmental impacts, helping stakeholders make data-driven decisions to achieve Sustainable Development Goals (SDGs) and promote cleaner energy initiatives.
 
 Features
 
